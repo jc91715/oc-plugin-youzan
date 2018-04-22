@@ -1,0 +1,12 @@
+# ===================================
+#  Form Field Definitions
+# ===================================
+
+fields:
+
+    app_id:
+        label: APP_ID
+    app_secret:
+        label: APP_SECRET
+    kdt_id:
+        label: KDT_ID
