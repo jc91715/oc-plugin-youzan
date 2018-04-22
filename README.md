@@ -10,3 +10,4 @@ app('youzan')->request('youzan.pay.qrcode.create', [
                     'qr_source' => '102828399222', // 自定义字段，你可以设置为网站订单号
                 ])'
 ```
+[官方api](https://www.youzanyun.com/apilist/detail/group_trade/pay_qrcode/youzan.pay.qrcode.create)
